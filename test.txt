@@ -1,1 +1,2 @@
 Testing: added this new file.
+Added a new line.
